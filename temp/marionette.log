@@ -1,0 +1,13 @@
+1390284082228	Marionette	INFO	MarionetteComponent loaded
+1390284082318	Marionette	INFO	marionette enabled via command-line
+1390284082319	Marionette	INFO	marionette-server.js loaded
+1390284082326	Marionette	INFO	Listening on port 2828
+
+1390284082326	Marionette	INFO	Marionette server ready
+1390284082405	Marionette	DEBUG	accepted connection on 127.0.0.1:56666
+1390284082413	Marionette	DEBUG	accepted connection on 127.0.0.1:56667
+1390284082438	Marionette	DEBUG	accepted connection on 127.0.0.1:56669
+1390284082557	Marionette	TRACE	Got: {"to":"root","type":"getMarionetteID"}
+1390284082767	Marionette	TRACE	Got: {"type":"newSession"}
+1390284082807	Marionette	TRACE	Got: {"session":"undefined","type":"executeScript","value":"window.resizeTo(\"1024\", \"1280\")","newSandbox":false}
+1390284082817	Marionette	TRACE	Got: {"type":"getStatus"}
